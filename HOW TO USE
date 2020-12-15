@@ -1,0 +1,19 @@
+#To use this bot? Nothing's easier !
+
+        1. First, select a Tweet to add to favorites and Retweet, select its identifier 
+        (See more -> Integrate the Tweet -> Copy the code in the form "1334542969530183683")
+
+        2. Then paste the identifier into the Last_fav_Tweet.txt file.
+
+        3. Finally launch the Python script.
+        
+_______________________________________________________
+
+#Pour utiliser ce bot ? Rien de plus simple !
+
+        1. Premièrement, selectionner un Tweet à ajouter aux favoris et a Retweeter, sélectionner sont identifiant 
+        (Voir plus --> Integrer le Tweet --> Copier le code de la forme "1334542969530183683")
+
+        2. Ensuite, coller l'identifiant dans le fichier Last_fav_Tweet.txt.
+
+        3. Enfin lancer le script Python.
